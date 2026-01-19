@@ -2,7 +2,6 @@
 
 High-performance blob tracking with real-time visualization. Optimized for 60-120 FPS with advanced features like motion smoothing, connection networks, and tactical HUD overlays.
 
-![Blob Tracker Demo](demo.png)
 
 ## Features
 
