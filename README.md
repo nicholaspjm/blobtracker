@@ -222,12 +222,11 @@ blob-tracker/
 
 ## License
 
-MIT License - feel free to use in your projects!
+N/A
 
 ## Credits
 
-Created by Nick for touch collective
-Optimized for high-performance real-time tracking
+Created by nicholaspjm
 
 ## Contributing
 
